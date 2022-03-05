@@ -1,2 +1,2 @@
 Django framework
-python language
+python programming language
